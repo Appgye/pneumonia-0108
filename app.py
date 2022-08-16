@@ -3,17 +3,9 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "a74a6513",
+   "id": "d5646ff9",
    "metadata": {},
    "outputs": [
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "D:\\ProgramData\\Anaconda3\\lib\\site-packages\\scipy\\__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.0\n",
-      "  warnings.warn(f\"A NumPy version >={np_minversion} and <{np_maxversion}\"\n"
-     ]
-    },
     {
      "name": "stdout",
      "output_type": "stream",
@@ -30,24 +22,7 @@
      "output_type": "stream",
      "text": [
       " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n",
-      "127.0.0.1 - - [16/Aug/2022 16:45:32] \"GET / HTTP/1.1\" 200 -\n",
-      "127.0.0.1 - - [16/Aug/2022 16:45:32] \"GET /favicon.ico HTTP/1.1\" 404 -\n"
-     ]
-    },
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "File Received\n",
-      "person1946_bacteria_4874.jpeg\n",
-      "1/1 [==============================] - 0s 142ms/step\n"
-     ]
-    },
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "127.0.0.1 - - [16/Aug/2022 16:46:23] \"POST / HTTP/1.1\" 200 -\n"
+      "127.0.0.1 - - [16/Aug/2022 17:48:00] \"GET / HTTP/1.1\" 200 -\n"
      ]
     },
     {
@@ -63,7 +38,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "127.0.0.1 - - [16/Aug/2022 16:46:36] \"POST / HTTP/1.1\" 200 -\n"
+      "127.0.0.1 - - [16/Aug/2022 17:48:09] \"POST / HTTP/1.1\" 200 -\n"
      ]
     }
    ],
@@ -97,6 +72,14 @@
     "if __name__ == \"__main__\":\n",
     "    app.run()\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "535634bf",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
